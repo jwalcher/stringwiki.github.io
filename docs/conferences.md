@@ -72,7 +72,7 @@ GGI, Florence (Italy), 5 April - 7 May 2027
 [French Strings Meeting 2027](https://indico.in2p3.fr/event/41129/)    
 Institut de Mathematiques de Bourgogne, April 27-29, 2027
 
-CERN Winter School on Supergravity, Strings and Gauge Theory 2027    
+[CERN Winter School on Supergravity, Strings and Gauge Theory 2027](https://indico.cern.ch/event/1723862/)    
 CERN, Geneva (Switzerland), 8 February - 12 February 2027
 
 [Iberian Strings 2027](https://sites.google.com/view/iberianstrings2027/home?authuser=3)   
